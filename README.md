@@ -34,7 +34,7 @@ The goal was to transform raw, session-level web analytics data into three focus
 
 ---
 
-## 📐 Data Marts Structure (SQL Views)
+##  Data Marts Structure (SQL Views)
 
 ### 1. `v_ga360_traffic_engagement`
 Focuses on general volume and engagement trends across traffic dimensions.
