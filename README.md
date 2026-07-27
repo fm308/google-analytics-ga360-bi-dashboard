@@ -1,5 +1,7 @@
 #  Google Analytics (GA360) Data Marts & BI Infrastructure in BigQuery
 
+![Power BI Dashboard Preview](assets/dashboard_preview.png)
+
 ##  Business Overview
 This project delivers a modular, performance-optimized Data Mart architecture built directly in **Google BigQuery** using the public **Google Merchandise Store (GA360)** dataset (`bigquery-public-data.google_analytics_sample`).
 
